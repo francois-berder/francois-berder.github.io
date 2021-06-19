@@ -23,6 +23,7 @@ url: https://www.francoisberder.fr
 title: Francois Berder's website
 author: Francois Berder
 github_username:  francois-berder
+repository: francois-berder/francois-berder.github.io
 
 # Build settings
 theme: jekyll-theme-tactile
