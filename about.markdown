@@ -8,7 +8,7 @@ Hi!
 
 I am Francois, a software engineer based in France.
 
-I moved to UK in 2009 and, two years later, studied computer science at Imperial College London. I graduated in 2015 and started a career working on embedded systems, first at Imagination Technologies, then in a small company in Cambridge.
+I moved to the UK in 2009 and, two years later, studied computer science at Imperial College London. I graduated in 2015 and started a career working on embedded systems, first at Imagination Technologies, then in a small company in Cambridge.
 
 Since 2021, I am back in France, near Paris, working as a freelancer.
 
