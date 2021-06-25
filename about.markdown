@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+![Avatar](/assets/about/avatar.jpeg){: style="float: left; margin-right: 1em;"}
 Hi!
 
 I am Francois, a software engineer based in France.
