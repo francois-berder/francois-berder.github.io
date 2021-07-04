@@ -84,7 +84,7 @@ For the 3V rail, I am only concerned about the efficiency when the current is in
 |               39.6 |               108.7 |           68.6 |
 |               52.4 |               135.5 |           64.6 |
 
-Overall, I am a bit disappointed about the efficiency of the 3V rail at small loads. Based on the efficiency curve found in the datasheet, I was expecting roughly 80% efficiency. Still, this is much bet>
+Overall, I am a bit disappointed about the efficiency of the 3V rail at small loads. Based on the efficiency curve found in the datasheet, I was expecting roughly 80% efficiency. Still, this is much better.
 
 ### 5V rail
 
