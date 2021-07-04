@@ -19,6 +19,9 @@ Note that jumpers J2 and J3 are not strictly needed but present nonetheless to m
 And here is how it looks like on Kicad 3D viewer:
 ![Board 3d](/assets/2021-06-25-power-supply/board_3d.png)
 
+
+Here are the [Kicad files](/assets/2021-06-25-power-supply/kicad_files.zip) (compatible with Kicad 5).
+
 ## Building the board
 
 Here is the BOM:
