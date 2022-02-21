@@ -62,5 +62,5 @@ Note that this tool does not take into account locks because it is not easy to d
 This is still a work in progress. To get quick results, I wrote the logic in Python and relied heavily on existing programs. I am using cflow to build the call graph for each task. To find global variables, I modified a little bit [smatch](http://smatch.sourceforge.net/) by creating a new check that analyses each expression and writes its results in an external file in JSON format. I have not published yet my work.
 
 
-I am thinking about rewriting everything in C using only sparse. It would make a lot easier to distribute this tool but while I am still in an exploratory phase this is not my priority.
+I am thinking about rewriting everything in C using only sparse. It would make a lot easier to distribute this tool but while I am still in an exploratory phase but this is not my priority.
 
